@@ -1,1 +1,1 @@
-This is repository for the LITS homeworks
+This repository is for LITS homeworks
