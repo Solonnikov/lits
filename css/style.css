@@ -43,7 +43,7 @@ h1 {
 	color: #1e1f4c;
 }
 aside {
-	width: 25%;
+	min-width: 25%;
 	float: right;
 	color: #33357f;
 }
